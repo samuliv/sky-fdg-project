@@ -1,6 +1,6 @@
 ## Sky - Flight Data Gather - Project Repository
 
-Project:
+Project Management:
 https://github.com/samuliv/sky-fdg-project/projects/1
 
 First Sketches:
