@@ -8,4 +8,4 @@
 - ### test
   - response: `working`
 - ### waypoints
-  - response: [ `latitude`, `longitude`, `icao`, `name`, `altitude` ]
+  - response: `data` [ `latitude`, `longitude`, `icao`, `name`, `altitude` ]
