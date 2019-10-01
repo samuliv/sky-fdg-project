@@ -6,6 +6,7 @@
 - ### logout
   - parameters: `token`, `session_id`
 - ### planes
+  - parameters: `token`, `session_id`
   - response: `data` [ `id`, `system`, `owner_system`, `reg`, `mark`, `type`, `beacon`, `logging` ]
 - ### test
   - response: `working`
