@@ -13,15 +13,15 @@ Demo (GET) REQUEST: https://www.aviatron.fi/_skyAPI.php?oper=test
 
 ## Backend API Calls
 
-- ### login
+- ### `login` (public)
   - parameters: `username`, `password`
   - reponse: `token`, `session_id`
-- ### logout
+- ### `logout` (session-required)
   - parameters: `token`, `session_id`
-- ### planes
+- ### `planes` (session-required)
   - parameters: `token`, `session_id`
   - response: `planes`, `data` [ `id`, `system`, `owner_system`, `reg`, `mark`, `type`, `beacon`, `logging` ]
-- ### test
+- ### `test` (public)
   - response: `working`
-- ### waypoints
+- ### `waypoints` (public)
   - response: `data` [ `latitude`, `longitude`, `icao`, `name`, `altitude` ]
