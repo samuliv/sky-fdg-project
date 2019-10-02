@@ -4,6 +4,8 @@
 2. Every response has parameter `success` (Boolean) value given the requester information did the request succeed. If it didn't also `error` (String) will be given
 3. Every request **must have** parameter `oper` that gives the information what **operation** is requested
 4. **Warning:** every API-call should be passed in **POST** -request and parameters should be encoded in `multipart/form-data`. In development state **GET**-requests are allowed - but this feature will be removed in the production version.
+5. JSONRequest -class takes care of these requirements and passes the requests safely (in a POST-request and values encoded into prefferred format) to the Backend service
+6. In development state you can also pass the variables in GET -request. **Warning: Do not pass urgent information in GET-request**
 
 Api URL: https://www.aviatron.fi/_skyAPI.php
 
