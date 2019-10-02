@@ -14,14 +14,24 @@ Demo (GET) REQUEST: https://www.aviatron.fi/_skyAPI.php?oper=test
 ## Backend API Calls (operations)
 
 - ### `login` (public)
+  Login to the Backend server with existing username and password.
+  
   - parameters: `username`, `password`
   - reponse: `token`, `session_id`
 - ### `logout` (session-required)
+  Logout from the Backend server with existing session_id and token.
+  
   - parameters: `token`, `session_id`
 - ### `planes` (session-required)
+  Get list of available planes.
+
   - parameters: `token`, `session_id`
   - response: `planes`, `data` [ `id`, `system`, `owner_system`, `reg`, `mark`, `type`, `beacon`, `logging` ]
 - ### `test` (public)
+  A Simple Test for Backend API -communication.
+  
   - response: `working`
 - ### `waypoints` (public)
+  Get list of common Waypoints (airports, etc.).
+  
   - response: `data` [ `latitude`, `longitude`, `icao`, `name`, `altitude` ]
