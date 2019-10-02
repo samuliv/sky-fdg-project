@@ -11,7 +11,7 @@ Api URL: https://www.aviatron.fi/_skyAPI.php
 
 Demo (GET) REQUEST: https://www.aviatron.fi/_skyAPI.php?oper=test
 
-## Backend API Calls
+## Backend API Calls (operations)
 
 - ### `login` (public)
   - parameters: `username`, `password`
