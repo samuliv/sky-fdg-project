@@ -22,8 +22,8 @@ Demo (GET) REQUEST: https://www.aviatron.fi/_skyAPI.php?oper=test
   Logout from the Backend server with existing session_id and token.
   
   - parameters: `token`, `session_id`
-- ### `planes` (session-required)
-  Get list of available planes.
+- ### `aircrafts` (session-required)
+  Get list of available aircrafts.
 
   - parameters: `token`, `session_id`
   - response: `planes`, `data` [ `id`, `system`, `owner_system`, `reg`, `mark`, `type`, `beacon`, `logging` ]
