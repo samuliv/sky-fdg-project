@@ -26,7 +26,7 @@ Demo (GET) REQUEST: https://www.aviatron.fi/_skyAPI.php?oper=test
   Get list of available aircrafts.
 
   - parameters: `token`, `session_id`
-  - response: `planes`, `data` [ `id`, `system`, `owner_system`, `reg`, `mark`, `type`, `beacon`, `logging` ]
+  - response: `aircrafts`, `data` [ `id`, `system`, `owner_system`, `reg`, `mark`, `type`, `beacon`, `logging` ]
 - ### `test` (public)
   A Simple Test for Backend API -communication.
   
