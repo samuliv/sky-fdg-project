@@ -9,7 +9,7 @@ https://github.com/samuliv/sky-fdg-project/projects/1
 Final Source Code (private):
 https://github.com/samuliv/sky-fdg-android
 
-Backend API Calls:
+Backend API Documentation:
 https://github.com/samuliv/sky-fdg-project/blob/master/Backend-Api-Calls.md
 
 First Sketches:
@@ -20,6 +20,15 @@ https://github.com/samuliv/sky-fdg-project/blob/master/FLIGHT_RECORDER_UIUX_1.pd
 
 Second User Tests:
 https://github.com/samuliv/sky-fdg-project/blob/master/FLIGHT_RECORDER_SECOND_UX.pdf
+
+Demonstration Video:
+https://github.com/samuliv/sky-fdg-project/blob/master/flight_simu.mov
+
+Presentation PDF:
+https://www.tucloud.fi/metropolia/presentation.pdf
+
+APK installer (proto):
+https://www.tucloud.fi/metropolia/sky.apk
 
 #### 2.10.2019 Simulation running on AVD
 <img src="https://github.com/samuliv/sky-fdg-project/blob/master/simulation-running.gif">
