@@ -1,10 +1,10 @@
 ## README
 ### https://github.com/samuliv/sky-fdg-project/blob/master/readme.pdf
 
-## Sky - Flight Data Gather - Project Repository
-
-Proto Testing @Youtube:
+## Proto Testing @ Youtube
 https://www.youtube.com/watch?v=yRT-5SemNzk
+
+## Sky - Flight Data Gather - Project Repository
 
 Project Management:
 https://github.com/samuliv/sky-fdg-project/projects/1
