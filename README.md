@@ -6,6 +6,9 @@ https://www.youtube.com/watch?v=yRT-5SemNzk
 
 ## Sky - Flight Data Gather - Project Repository
 
+APP Proto Testing Video @ Youtube:
+https://youtu.be/5CGsNibsseI
+
 Project Management:
 https://github.com/samuliv/sky-fdg-project/projects/1
 
