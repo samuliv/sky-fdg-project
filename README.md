@@ -37,3 +37,6 @@ https://www.tucloud.fi/metropolia/sky.apk
 
 #### 2.10.2019 Simulation running on AVD
 <img src="https://github.com/samuliv/sky-fdg-project/blob/master/simulation-running.gif">
+
+#### 18.10.2019 iOS version Project Started with XCode/Swift
+<img src="https://github.com/samuliv/sky-fdg-project/blob/master/Screenshot%202019-10-18%20at%201.55.20.png">
