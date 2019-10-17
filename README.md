@@ -11,8 +11,11 @@ https://youtu.be/Dr4I2plzyPI
 Project Management:
 https://github.com/samuliv/sky-fdg-project/projects/1
 
-Final Source Code (private):
+Final Source Code ANDROID (private):
 https://github.com/samuliv/sky-fdg-android
+
+Final Source Code IOS (private):
+https://github.com/samuliv/sky-fdg-ios
 
 Backend API Documentation:
 https://github.com/samuliv/sky-fdg-project/blob/master/Backend-Api-Calls.md
