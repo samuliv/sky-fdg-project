@@ -43,3 +43,6 @@ https://www.tucloud.fi/metropolia/sky.apk
 
 #### 18.10.2019 iOS version Project Started with XCode/Swift
 <img src="https://github.com/samuliv/sky-fdg-project/blob/master/Screenshot%202019-10-18%20at%201.55.20.png">
+
+#### 19.10.2019 iOS version UX/UI designing
+<img src="https://github.com/samuliv/sky-fdg-project/blob/master/Screenshot%202019-10-19%20at%204.29.49.png">
